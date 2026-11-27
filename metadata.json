@@ -1,0 +1,6 @@
+{
+  "name": "Offline Messenger",
+  "description": "Encrypted offline peer-to-peer and group messenger over Nearby Connections, Wi-Fi/Hotspot, and Bluetooth with push-to-talk walkie-talkie, voice notes, file sharing, polls, and emergency SOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
